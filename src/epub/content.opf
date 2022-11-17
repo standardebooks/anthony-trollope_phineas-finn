@@ -50,29 +50,33 @@
 		<meta property="term" refines="#subject-4">sh2008108859</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008102451</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Palliser</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
+		<dc:description id="description">A young Irishman attempts to establish himself as a member of Parliament while finding his way in high society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;High politics are not always centrally in view in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/palliser"&gt;Palliser novels&lt;/a&gt;, but parliamentary life comes to the fore throughout &lt;i&gt;Phineas Finn&lt;/i&gt;, the second in the series. The hero of the tale is the young son of an Irish country doctor, now attaining manhood and striking out in life. Although training for the Bar, he feels the lure of Parliament and manages to secure a seat. Blessed with good fortune, “comely inside and out,” and pleasant company to both women and men, he begins to climb the ladder. Along with his undoubted triumphs there come also palpable failures, social as well as political. Leaving behind a sweetheart in Ireland, he encounters women of high status and fashion in London who place their own claims on his heart.&lt;/p&gt;
+			&lt;p&gt;While Phineas is clearly the hero of the novel bearing his name, the lives of a number of remarkable women become intertwined with his own, each of whom he loves, after a fashion. The portrait of Lady Laura Standish—who serves as his political muse as well—is especially poignantly drawn, while Violet Effingham and the somewhat mysterious Madame Max Goesler each have an individuated strength and depth of character. Each, too, mirrors in different ways the dilemma faced by Phineas in his political career: whether it is better to be subservient and “succeed,” or maintain independence and risk being an outcast.&lt;/p&gt;
+			&lt;p&gt;The production of &lt;i&gt;Phineas Finn&lt;/i&gt; coincided with Trollope’s own political awakening and aspirations. While writing this novel, he was also composing a memoir of Lord Palmerston, the Prime Minister who had died in office only a couple years previously. (It remained unpublished until 1882.) By this point in his mid 50s, Trollope made his own attempt to secure a seat as a member of Parliament in 1868, failed, and was personally scarred by the experience. The literary critic Michael Sadleir characterized Trollope’s parliamentary fiction as showing a “preoccupation with political society [but] indifference to political theory,” perhaps unfairly. Especially in the character of &lt;abbr&gt;Mr.&lt;/abbr&gt; Monk, Phineas’s chief political mentor, much wisdom for parliamentary life is imparted.&lt;/p&gt;
+			&lt;p&gt;Trollope’s political failure does not yet cast a shadow on the optimism which pervades &lt;i&gt;Phineas Finn&lt;/i&gt;. The novelist’s own views would ripen along with that of his characters as the series took shape. Still, in his autobiography he was able to declare, “&lt;i&gt;Phineas Finn&lt;/i&gt;, I certainly think, was successful from first to last.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18000</dc:source>
 		<dc:source>https://archive.org/details/phineasfinnirish00troluoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Phineas_Finn</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_phineas-finn</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
 		<meta property="file-as" refines="#author">Trollope, Anthony</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Trollope</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089077</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Edwin Edwards</dc:contributor>
+		<meta property="file-as" refines="#artist">Edwards, Edwin</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edwin_Edwards_(artist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n88070557</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Joseph E. Loewenstein</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Loewenstein, Joseph E.</meta>
