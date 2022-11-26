@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anthony-trollope/phineas-finn</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-11-26T05:02:11Z</dc:date>
+		<meta property="dcterms:modified">2022-11-26T05:02:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -56,16 +56,17 @@
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">A young Irishman attempts to establish himself as a member of Parliament while finding his way in high society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;High politics are not always centrally in view in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/palliser"&gt;Palliser novels&lt;/a&gt;, but parliamentary life comes to the fore throughout &lt;i&gt;Phineas Finn&lt;/i&gt;, the second in the series. The hero of the tale is the young son of an Irish country doctor, now attaining manhood and striking out in life. Although training for the Bar, he feels the lure of Parliament and manages to secure a seat. Blessed with good fortune, “comely inside and out,” and pleasant company to both women and men, he begins to climb the ladder. Along with his undoubted triumphs there come also palpable failures, social as well as political. Leaving behind a sweetheart in Ireland, he encounters women of high status and fashion in London who place their own claims on his heart.&lt;/p&gt;
+			&lt;p&gt;High politics are not always centrally in view in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/palliser"&gt;Palliser novels&lt;/a&gt;, but parliamentary life comes to the fore throughout &lt;i&gt;Phineas Finn&lt;/i&gt;, the second in the series.&lt;/p&gt;
+			&lt;p&gt;The hero of the tale is the young son of an Irish country doctor, now attaining manhood and striking out in life. Although training for the Bar, he feels the lure of Parliament and manages to secure a seat. Blessed with good fortune, “comely inside and out,” and pleasant company to both women and men, he begins to climb the ladder. Along with his undoubted triumphs there come also palpable failures—social as well as political. Leaving behind a sweetheart in Ireland, he encounters women of high status and fashion in London who place their own claims on his heart.&lt;/p&gt;
 			&lt;p&gt;While Phineas is clearly the hero of the novel bearing his name, the lives of a number of remarkable women become intertwined with his own, each of whom he loves, after a fashion. The portrait of Lady Laura Standish—who serves as his political muse as well—is especially poignantly drawn, while Violet Effingham and the somewhat mysterious Madame Max Goesler each have an individuated strength and depth of character. Each, too, mirrors in different ways the dilemma faced by Phineas in his political career: whether it is better to be subservient and “succeed,” or maintain independence and risk being an outcast.&lt;/p&gt;
-			&lt;p&gt;The production of &lt;i&gt;Phineas Finn&lt;/i&gt; coincided with Trollope’s own political awakening and aspirations. While writing this novel, he was also composing a memoir of Lord Palmerston, the Prime Minister who had died in office only a couple years previously. (It remained unpublished until 1882.) By this point in his mid 50s, Trollope made his own attempt to secure a seat as a member of Parliament in 1868, failed, and was personally scarred by the experience. The literary critic Michael Sadleir characterized Trollope’s parliamentary fiction as showing a “preoccupation with political society [but] indifference to political theory,” perhaps unfairly. Especially in the character of &lt;abbr&gt;Mr.&lt;/abbr&gt; Monk, Phineas’s chief political mentor, much wisdom for parliamentary life is imparted.&lt;/p&gt;
-			&lt;p&gt;Trollope’s political failure does not yet cast a shadow on the optimism which pervades &lt;i&gt;Phineas Finn&lt;/i&gt;. The novelist’s own views would ripen along with those of his characters as the series took shape. Still, in his autobiography he was able to declare, “&lt;i&gt;Phineas Finn&lt;/i&gt;, I certainly think, was successful from first to last.”&lt;/p&gt;
+			&lt;p&gt;The writing of &lt;i&gt;Phineas Finn&lt;/i&gt; coincided with Trollope’s own political awakening and aspirations. While working on this novel, he was also composing a memoir of Lord Palmerston, the Prime Minister who had died in office only a couple years previously. (The memoir remained unpublished until 1882.) By this point in his mid fifties, Trollope made his own attempt to secure a seat as a member of Parliament in 1868, failed, and was scarred by the experience. The literary critic Michael Sadleir characterized Trollope’s parliamentary fiction as showing a “preoccupation with political society [but] indifference to political theory,” perhaps unfairly. Especially in the character of &lt;abbr&gt;Mr.&lt;/abbr&gt; Monk, Phineas’s chief political mentor, much wisdom for parliamentary life is imparted.&lt;/p&gt;
+			&lt;p&gt;Trollope’s political failure does not yet cast a shadow on the optimism which pervades &lt;i&gt;Phineas Finn&lt;/i&gt;. The novelist’s own views would ripen along with those of his characters as the series took shape. Still, in his autobiography Trollope was able to declare, “&lt;i&gt;Phineas Finn&lt;/i&gt;, I certainly think, was successful from first to last.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18000</dc:source>
 		<dc:source>https://archive.org/details/phineasfinnirish00troluoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">265615</meta>
+		<meta property="se:reading-ease.flesch">80.41</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Phineas_Finn</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_phineas-finn</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
@@ -90,6 +91,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://thegriggs.org/david/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
