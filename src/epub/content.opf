@@ -66,7 +66,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/18000</dc:source>
 		<dc:source>https://archive.org/details/phineasfinnirish00troluoft</dc:source>
-		<meta property="se:word-count">265615</meta>
+		<meta property="se:word-count">263181</meta>
 		<meta property="se:reading-ease.flesch">80.51</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Phineas_Finn</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_phineas-finn</meta>
