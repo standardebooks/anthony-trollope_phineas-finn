@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Phineas Finn: The Irish Member</dc:title>
 		<meta property="file-as" refines="#fulltitle">Phineas Finn</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">London (England) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Political fiction</dc:subject>
 		<dc:subject id="subject-3">Legislators -- Fiction</dc:subject>
