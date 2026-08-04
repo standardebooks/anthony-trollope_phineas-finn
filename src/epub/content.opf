@@ -56,7 +56,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Palliser</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:abstract>A young Irishman attempts to establish himself as a member of Parliament while finding his way in high society.</dc:abstract>
+		<meta property="schema:abstract">A young Irishman attempts to establish himself as a member of Parliament while finding his way in high society.</meta>
 		<dc:description>
 			&lt;p&gt;High politics are not always centrally in view in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/palliser"&gt;Palliser novels&lt;/a&gt;, but parliamentary life comes to the fore throughout &lt;i&gt;Phineas Finn&lt;/i&gt;, the second in the series.&lt;/p&gt;
 			&lt;p&gt;The hero of the tale is the young son of an Irish country doctor, now attaining manhood and striking out in life. Although training for the Bar, he feels the lure of Parliament and manages to secure a seat. Blessed with good fortune, “comely inside and out,” and pleasant company to both women and men, he begins to climb the ladder. Along with his undoubted triumphs there come also palpable failures—social as well as political. Leaving behind a sweetheart in Ireland, he encounters women of high status and fashion in London who place their own claims on his heart.&lt;/p&gt;
